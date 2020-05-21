@@ -1,0 +1,9 @@
+C:\Users\xviks\source\repos\ds.test.impl\ds.test.impl\bin\Debug\netstandard2.0\lib.deps.json
+C:\Users\xviks\source\repos\ds.test.impl\ds.test.impl\bin\Debug\netstandard2.0\lib.dll
+C:\Users\xviks\source\repos\ds.test.impl\ds.test.impl\obj\Debug\netstandard2.0\ds.test.impl.csprojAssemblyReference.cache
+C:\Users\xviks\source\repos\ds.test.impl\ds.test.impl\obj\Debug\netstandard2.0\ds.test.impl.AssemblyInfoInputs.cache
+C:\Users\xviks\source\repos\ds.test.impl\ds.test.impl\obj\Debug\netstandard2.0\ds.test.impl.AssemblyInfo.cs
+C:\Users\xviks\source\repos\ds.test.impl\ds.test.impl\bin\Debug\netstandard2.0\lib.pdb
+C:\Users\xviks\source\repos\ds.test.impl\ds.test.impl\obj\Debug\netstandard2.0\ds.test.impl.csproj.CoreCompileInputs.cache
+C:\Users\xviks\source\repos\ds.test.impl\ds.test.impl\obj\Debug\netstandard2.0\lib.dll
+C:\Users\xviks\source\repos\ds.test.impl\ds.test.impl\obj\Debug\netstandard2.0\lib.pdb
