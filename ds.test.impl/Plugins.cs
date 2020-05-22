@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace ds.test.impl
@@ -17,16 +17,7 @@ namespace ds.test.impl
                 return pList.Select(x => x.PluginName).ToArray();
             }
         }
-        public static IPlugin GetPlugin(string pluginName)
-        {
-            foreach (var plugin in pList)
-            {
-                if (plugin.PluginName == pluginName)
-                {
-                    return plugin;
-                }
-            }
-            return null;
-        }
+        public static IPlugin GetPlugin(string pluginName)  =>
+            pList.Where(x => x.PluginName == pluginName).ElementAt(0);
     }
 }
